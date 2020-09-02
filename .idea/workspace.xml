@@ -106,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599032165683</updated>
-      <workItem from="1599032167144" duration="1781000" />
+      <workItem from="1599032167144" duration="2022000" />
     </task>
     <servers />
   </component>
@@ -114,26 +114,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2508" height="291" key="GridCell.Tab.0.bottom" timestamp="1599034741535">
+    <state width="2508" height="291" key="GridCell.Tab.0.bottom" timestamp="1599035046506">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="291" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1599034741535" />
-    <state width="2508" height="291" key="GridCell.Tab.0.center" timestamp="1599034741534">
+    <state width="2508" height="291" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1599035046506" />
+    <state width="2508" height="291" key="GridCell.Tab.0.center" timestamp="1599035046505">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="291" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1599034741534" />
-    <state width="2508" height="291" key="GridCell.Tab.0.left" timestamp="1599034741533">
+    <state width="2508" height="291" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1599035046505" />
+    <state width="2508" height="291" key="GridCell.Tab.0.left" timestamp="1599035046505">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="291" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1599034741533" />
-    <state width="2508" height="291" key="GridCell.Tab.0.right" timestamp="1599034741535">
+    <state width="2508" height="291" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1599035046505" />
+    <state width="2508" height="291" key="GridCell.Tab.0.right" timestamp="1599035046506">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="291" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1599034741535" />
+    <state width="2508" height="291" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1599035046506" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ruby_study@test2.rcov" NAME="test2 Coverage Results" MODIFIED="1599033803901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@Test1.rcov" NAME="Test1 Coverage Results" MODIFIED="1599033143966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@Test3.rcov" NAME="Test3 Coverage Results" MODIFIED="1599034741508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@Test3.rcov" NAME="Test3 Coverage Results" MODIFIED="1599035046479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
   </component>
 </project>
