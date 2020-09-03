@@ -34,7 +34,7 @@
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.putcDemo">
+  <component name="RunManager" selected="Ruby.printDemo">
     <configuration name="getsDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-study" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -68,6 +68,24 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/iteratorDemo.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="printDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-study" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/printDemo.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -107,31 +125,13 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="rangeDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="ruby-study" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/rangeDemo.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.printDemo" />
         <item itemvalue="Ruby.putcDemo" />
         <item itemvalue="Ruby.getsDemo" />
         <item itemvalue="Ruby.putsDemo" />
         <item itemvalue="Ruby.iteratorDemo" />
-        <item itemvalue="Ruby.rangeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -154,22 +154,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2508" height="383" key="GridCell.Tab.0.bottom" timestamp="1599116700577">
+    <state width="2508" height="383" key="GridCell.Tab.0.bottom" timestamp="1599116969084">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1599116700577" />
-    <state width="2508" height="383" key="GridCell.Tab.0.center" timestamp="1599116700576">
+    <state width="2508" height="383" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1599116969084" />
+    <state width="2508" height="383" key="GridCell.Tab.0.center" timestamp="1599116969083">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1599116700576" />
-    <state width="2508" height="383" key="GridCell.Tab.0.left" timestamp="1599116700575">
+    <state width="2508" height="383" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1599116969083" />
+    <state width="2508" height="383" key="GridCell.Tab.0.left" timestamp="1599116969083">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1599116700575" />
-    <state width="2508" height="383" key="GridCell.Tab.0.right" timestamp="1599116700576">
+    <state width="2508" height="383" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1599116969083" />
+    <state width="2508" height="383" key="GridCell.Tab.0.right" timestamp="1599116969084">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1599116700576" />
+    <state width="2508" height="383" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1599116969084" />
     <state x="695" y="91" key="SettingsEditor" timestamp="1599037830100">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -196,6 +196,7 @@
     <SUITE FILE_PATH="coverage/ruby_study@callSupport.rcov" NAME="callSupport Coverage Results" MODIFIED="1599042526098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@Test5.rcov" NAME="Test5 Coverage Results" MODIFIED="1599037361433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@rangeDemo.rcov" NAME="rangeDemo Coverage Results" MODIFIED="1599115786612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@printDemo.rcov" NAME="printDemo Coverage Results" MODIFIED="1599116969053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@blockDemo.rcov" NAME="blockDemo Coverage Results" MODIFIED="1599039770420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@arrayDemo.rcov" NAME="arrayDemo Coverage Results" MODIFIED="1599100192039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@test6.rcov" NAME="test6 Coverage Results" MODIFIED="1599038677511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
