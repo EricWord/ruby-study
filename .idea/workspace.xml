@@ -37,8 +37,8 @@
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.syswriteDemo">
-    <configuration name="fileDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.fileExistDemo">
+    <configuration name="deleteDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-study" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
@@ -52,11 +52,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/fileDemo.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/deleteDemo.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="getsDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="fileExistDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-study" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
@@ -70,11 +70,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/getsDemo.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/fileExistDemo.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="printDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="foreachDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-study" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
@@ -88,11 +88,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/printDemo.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/foreachDemo.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="putcDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="readlinesDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-study" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
@@ -106,11 +106,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/putcDemo.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/readlinesDemo.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="syswriteDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="renameDemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-study" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/test" />
@@ -124,17 +124,17 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/syswriteDemo.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test/renameDemo.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.syswriteDemo" />
-        <item itemvalue="Ruby.fileDemo" />
-        <item itemvalue="Ruby.printDemo" />
-        <item itemvalue="Ruby.putcDemo" />
-        <item itemvalue="Ruby.getsDemo" />
+        <item itemvalue="Ruby.fileExistDemo" />
+        <item itemvalue="Ruby.deleteDemo" />
+        <item itemvalue="Ruby.renameDemo" />
+        <item itemvalue="Ruby.foreachDemo" />
+        <item itemvalue="Ruby.readlinesDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599032165683</updated>
-      <workItem from="1599032167144" duration="12325000" />
+      <workItem from="1599032167144" duration="14154000" />
     </task>
     <servers />
   </component>
@@ -157,22 +157,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2508" height="383" key="GridCell.Tab.0.bottom" timestamp="1599117502804">
+    <state width="2508" height="383" key="GridCell.Tab.0.bottom" timestamp="1599119659557">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1599117502804" />
-    <state width="2508" height="383" key="GridCell.Tab.0.center" timestamp="1599117502803">
+    <state width="2508" height="383" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1599119659557" />
+    <state width="2508" height="383" key="GridCell.Tab.0.center" timestamp="1599119659555">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1599117502803" />
-    <state width="2508" height="383" key="GridCell.Tab.0.left" timestamp="1599117502802">
+    <state width="2508" height="383" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1599119659555" />
+    <state width="2508" height="383" key="GridCell.Tab.0.left" timestamp="1599119659555">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1599117502802" />
-    <state width="2508" height="383" key="GridCell.Tab.0.right" timestamp="1599117502804">
+    <state width="2508" height="383" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1599119659555" />
+    <state width="2508" height="383" key="GridCell.Tab.0.right" timestamp="1599119659556">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="2508" height="383" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1599117502804" />
+    <state width="2508" height="383" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1599119659556" />
     <state x="695" y="91" key="SettingsEditor" timestamp="1599037830100">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -181,32 +181,38 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="861" y="252" key="run.anything.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1599039711977" />
-    <state x="842" y="48" width="875" height="1032" key="search.everywhere.popup" timestamp="1599116983666">
+    <state x="842" y="48" width="875" height="1032" key="search.everywhere.popup" timestamp="1599119066630">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="842" y="48" width="875" height="1032" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1599116983666" />
+    <state x="842" y="48" width="875" height="1032" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1599119066630" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ruby_study@test2.rcov" NAME="test2 Coverage Results" MODIFIED="1599033803901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@fileDemo.rcov" NAME="fileDemo Coverage Results" MODIFIED="1599117327178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@Test7.rcov" NAME="Test7 Coverage Results" MODIFIED="1599040905891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@stringDemo.rcov" NAME="stringDemo Coverage Results" MODIFIED="1599045965886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@putcDemo.rcov" NAME="putcDemo Coverage Results" MODIFIED="1599116698527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@Test4.rcov" NAME="Test4 Coverage Results" MODIFIED="1599035414042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@hashDemo.rcov" NAME="hashDemo Coverage Results" MODIFIED="1599101998210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@Test1.rcov" NAME="Test1 Coverage Results" MODIFIED="1599033143966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@Test3.rcov" NAME="Test3 Coverage Results" MODIFIED="1599035046479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@getsDemo.rcov" NAME="getsDemo Coverage Results" MODIFIED="1599116618996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@callSupport.rcov" NAME="callSupport Coverage Results" MODIFIED="1599042526098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@Test5.rcov" NAME="Test5 Coverage Results" MODIFIED="1599037361433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@rangeDemo.rcov" NAME="rangeDemo Coverage Results" MODIFIED="1599115786612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@printDemo.rcov" NAME="printDemo Coverage Results" MODIFIED="1599116969053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@foreachDemo.rcov" NAME="foreachDemo Coverage Results" MODIFIED="1599118065801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@blockDemo.rcov" NAME="blockDemo Coverage Results" MODIFIED="1599039770420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@arrayDemo.rcov" NAME="arrayDemo Coverage Results" MODIFIED="1599100192039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@test6.rcov" NAME="test6 Coverage Results" MODIFIED="1599038677511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@tiemDemo.rcov" NAME="tiemDemo Coverage Results" MODIFIED="1599103954679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@iteratorDemo.rcov" NAME="iteratorDemo Coverage Results" MODIFIED="1599116188138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@readlinesDemo.rcov" NAME="readlinesDemo Coverage Results" MODIFIED="1599117937738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@Test7.rcov" NAME="Test7 Coverage Results" MODIFIED="1599040905891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@fileExistDemo.rcov" NAME="fileExistDemo Coverage Results" MODIFIED="1599119659532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@Test4.rcov" NAME="Test4 Coverage Results" MODIFIED="1599035414042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@hashDemo.rcov" NAME="hashDemo Coverage Results" MODIFIED="1599101998210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@Test1.rcov" NAME="Test1 Coverage Results" MODIFIED="1599033143966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@getsDemo.rcov" NAME="getsDemo Coverage Results" MODIFIED="1599116618996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@renameDemo.rcov" NAME="renameDemo Coverage Results" MODIFIED="1599118166319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@each_byte_demo.rcov" NAME="each_byte_demo Coverage Results" MODIFIED="1599117832798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@printDemo.rcov" NAME="printDemo Coverage Results" MODIFIED="1599116969053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@test6.rcov" NAME="test6 Coverage Results" MODIFIED="1599038677511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@syswriteDemo.rcov" NAME="syswriteDemo Coverage Results" MODIFIED="1599117502780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
     <SUITE FILE_PATH="coverage/ruby_study@putsDemo.rcov" NAME="putsDemo Coverage Results" MODIFIED="1599116536707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
-    <SUITE FILE_PATH="coverage/ruby_study@iteratorDemo.rcov" NAME="iteratorDemo Coverage Results" MODIFIED="1599116188138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
+    <SUITE FILE_PATH="coverage/ruby_study@deleteDemo.rcov" NAME="deleteDemo Coverage Results" MODIFIED="1599118234264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="ruby-study" />
   </component>
 </project>
